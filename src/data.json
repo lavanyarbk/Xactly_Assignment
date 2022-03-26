@@ -1,0 +1,128 @@
+[
+    {
+      "name": "EMILY",
+      "designation":"Global Vice President",
+      "gender": "women",
+      "id": "81",
+      
+      "children": [
+        {
+          "name": "JOY",
+          "designation":"Sales Manager",
+          "country":"Singapore",
+          "sales-condition":"",
+          "gender": "men",
+          "id": "66",
+          
+          "children": [
+            {
+              "name": "RICHA",
+              "designation":"Sales Lead",
+              "sales-condition":"",
+              "country":"Singapore",
+              "gender": "women",
+              "id": "44",
+  
+              "children":[{
+                "name": "ADAM",
+                "designation":"Sales Representative",
+                "sales-condition":"",
+                "gender": "men",
+                "country":"Singapore",
+                "id": "44"
+  
+                },{
+                    "name": "ROBBIN",
+                "designation":"Sales Representative",
+                "sales-condition":"",
+                "gender": "men",
+                "country":"Singapore",
+                "id": "22"
+                },
+                {
+                  "name": "AMY",
+              "designation":"Sales Representative",
+              "sales-condition":"",
+              "country":"Singapore",
+              "gender": "women",
+              "id": "90"
+            
+              }
+  
+              ]
+            }
+            
+          ]
+        },
+        {
+          "name": "PENNY",
+          "designation":"Sales Manager",
+          "country":"United States Of Amarica",
+          "sales-condition":"",
+          "gender": "women",
+          "id": "86",
+          "children": [{
+            "name": "BEN",
+            "designation":"Sales Lead",
+            "country":"East coast USA",
+            "sales-condition":"",
+            "gender": "men",
+            "id": "67",
+            "children":[{
+              "name": "EMA",
+              "designation":"Sales Representative",
+              "sales-condition":"",
+              "gender": "women",
+              "country":"USA",
+              "id": "39"
+            }]
+  
+          },
+           
+            {
+              "name": "JOHN",
+              "designation":"Sales Lead",
+              "country":"West coast USA",
+              "sales-condition":"",
+              "gender": "men",
+              "id": "55",
+              
+              
+              "children": [
+                {
+                  "name": "MILAN",
+                  "designation":"Sales Representative",
+                  "sales-condition":"",
+                  "gender": "women",
+                  "country":"USA",
+                  "id": "26"
+                }
+              ]
+            },
+          
+            {
+             "name": "RICHARD",
+              "designation":"Sales Lead",
+              "country":"Central USA",
+              "sales-condition":"",
+              "gender": "men",
+              "id": "50",
+              "children": [
+                {
+                  "name": "SAM",
+                  "designation":"Sales Representative",
+                  "sales-condition":"",
+                  "gender": "women",
+                  "country":"USA",
+                  "id": "73"
+                }
+                
+              ]
+            }
+          ]
+        }
+  
+      ]
+    }
+  ]
+  
